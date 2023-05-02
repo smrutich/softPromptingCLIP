@@ -1,6 +1,8 @@
 # softPromptingCLIP
 Context Optimization for CLIP
 
+implemented with just pytorch (without DASSL)
+
 
 
 @inproceedings{zhou2022cocoop,
