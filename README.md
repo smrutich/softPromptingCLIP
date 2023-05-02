@@ -1,9 +1,10 @@
 # softPromptingCLIP
-Context Optimization for CLIP
+Context Optimization for CLIP using CoOp and CoCoOp
 
 ### Implemented with just pytorch (without DASSL)
 
 
+A possible extension to VQA
 
 
 
