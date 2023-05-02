@@ -1,8 +1,13 @@
 # softPromptingCLIP
 Context Optimization for CLIP
 
+### Implemented with just pytorch (without DASSL)
 
 
+
+
+
+**Reference**
 @inproceedings{zhou2022cocoop,
     title={Conditional Prompt Learning for Vision-Language Models},
     author={Zhou, Kaiyang and Yang, Jingkang and Loy, Chen Change and Liu, Ziwei},
